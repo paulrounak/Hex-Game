@@ -18,5 +18,3 @@ Then run the output file using:
 1. Enter the board size
 2. Enter the side you want to play with (b/w). Black(b) starts!
 3. Start playing by entering your piece co-ordinates using (y x) format.
-
-#### Enjoy!
